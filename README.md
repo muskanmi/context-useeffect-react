@@ -25,13 +25,13 @@ A test application created to understand the concept of useEffect hook in ReactJ
 
 3. Now, install the required dependencies by running the following command:
 
-```js
+```shell
   npm install
 ```
 
 4. Finally, start the application by running:
 
-```js
+```shell
   npm start
 ```
 
